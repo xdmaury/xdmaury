@@ -38,13 +38,6 @@ I enjoy working close to real problems, owning features end-to-end — from data
 - Ethereum Node Management
 
 
-### Featured Repositories
-- **x-engagement-verifier** – API to verify Twitter/X user interactions (follow, reply, retweet)
-- **Sentiment-trader/ipal-contracts** – Smart contracts used in Sentiment-Trader infrastructure
-- **Sentiment-trader/erc-4908** – ERC-4908 implementation with custom access control
-- **test-semantic-versioning** – Automated semantic versioning using GitHub Actions
-
-
 ## 👥 Get in Touch
 - 🐦 Twitter/X: [@xdmaury_](https://x.com/xdmaury_)
 - 🪙 LinkedIn: [Maury](https://linkedin.com/in/xdmaury)
