@@ -5,7 +5,7 @@
 ### About Me
 Software Engineer with experience building and deploying production-ready applications across backend, frontend, and infrastructure.
 
-Currently working at **Sentiment-Trader**, where I develop data-driven systems using **Python**, **Next.js**, **Neo4j**, and **MongoDB**, including web scraping pipelines, CI/CD automation, and VPS deployments.
+Currently working at **Audax Capital FIDC**.
 
 I enjoy working close to real problems, owning features end-to-end — from data ingestion to production deployment.
 
