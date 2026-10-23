@@ -5,7 +5,7 @@
 ### About Me
 Software Engineer with experience building and deploying production-ready applications across backend, frontend, and infrastructure.
 
-Currently working at **Audax Capital FIDC**.
+Currently working at **[Audax Capital FIDC](https://audaxdigital.com.br)**.
 
 I enjoy working close to real problems, owning features end-to-end — from data ingestion to production deployment.
 
